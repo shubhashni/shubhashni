@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="#">Portfolio</a> • 
-  <a href="#">LinkedIn</a> • 
-  <a href="mailto:yourmail@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/shubhashni/">LinkedIn</a> • 
+  <a href="shubhashnik525@gmail.com">Email</a>
 </p>
 
 ---
