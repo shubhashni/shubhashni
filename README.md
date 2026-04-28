@@ -40,10 +40,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhashni&theme=radical" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhashni&show_icons=true&theme=radical" />
 </p>
-
 ---
+
+## 🚀 Achievements
+
+- 📈 300+ commits in the last year
+- 💻 Built multiple full-stack & Android projects
+- 🔥 Consistent daily coding habit
 
 ## 🚀 Projects
 
