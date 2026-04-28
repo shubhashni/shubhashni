@@ -20,17 +20,30 @@
 - 🌱 Currently learning advanced full-stack systems
 
 ---
+## 📚 Education
+
+🎓 Bachelor of Computer Application (BCA)
+<a href="https://www.shriramakrishnacollege.com/">SRKGI University, Satna (M.P.)</a> 
+jul 2023 – Sep 2026
+
+💼 Work Experience
+<a href="#">Local Karo </a>· Full-time · Hybrid
+📍 Satna, Madhya Pradesh
+
+As a Frontend Developer at Local Karo .pvt, I am responsible for designing, developing, and creating UI of web and android application.
+
+
 
 ## ⚒️ Tech Stack
 
 ### 💻 Languages
-- JavaScript | TypeScript | Java
+- JavaScript | TypeScript | Java  | Python
 
 ### 🌐 Frontend
-- React.js | Tailwind CSS | Three.js
+- React.js | Next.js  | Tailwind CSS | Three.js
 
 ### 🔙 Backend
-- Node.js | Express.js | Prisma ORM | MySQL
+- Node.js | Express.js | Prisma ORM | MySQL  | NoSQL 
 
 ### 📱 Mobile
 - React Native | Android (Java)
