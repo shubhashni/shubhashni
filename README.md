@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Shubhashni Kushwaha</h1>
+
+<h1 align="center">Hello 👋, I'm Shubhashni Kushwaha</h1>
 <h3 align="center">Full Stack & Android Developer</h3>
 
 <p align="center">
