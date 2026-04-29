@@ -90,7 +90,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/shubhashni/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
