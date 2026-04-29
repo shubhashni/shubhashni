@@ -12,7 +12,7 @@
 <!-- 🎯 BADGES -->
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-00C2A8?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/shubhashni/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" /></a>
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" /></a>
 </p>
 
@@ -29,12 +29,29 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-### 💻 Languages & Tools
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,c+,python,react,nodejs,nextjs,express,prisma,mysql,tailwind,androidstudio" />
-</p> -->
+🎓 **Bachelor of Computer Applications (BCA)**  
+📍 India  
+📅 2022 – 2025  
+
+💡 Focus: Web Development, DBMS, Software Engineering  
+
+---
+
+## 💼 Work Experience
+
+💻 **Full Stack & Android Developer (Self Projects / Freelance)**  
+📅 2024 – Present  
+
+🔹 Built full-stack web apps using **React, Node.js, Prisma**  
+🔹 Developed Android apps using **Java**  
+🔹 Designed REST APIs and backend systems  
+🔹 Focused on performance, scalability, and UI/UX  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -56,6 +73,7 @@
 <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
 
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -72,10 +90,10 @@
 
 ## 🚀 Projects
 
-- 📝 **Full Stack Blogging Website** (React + Node + Prisma)
-- 🛒 **E-commerce Web App**
-- 📱 **React Native Service App**
-- 🎮 **Android Word Game**
+- 📝 **Full Stack Blogging Website** (React + Node + Prisma)  
+- 🛒 **E-commerce Web App**  
+- 📱 **React Native Service App**  
+- 🎮 **Android Word Game**  
 
 ---
 
