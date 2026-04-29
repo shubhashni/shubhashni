@@ -38,21 +38,22 @@
 
 <p align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=java" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=cpp" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=js" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=ts" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" /></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=react" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=express" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=prisma" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
+<a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
 
 </p>
 ---
