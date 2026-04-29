@@ -41,7 +41,7 @@
 
 ## 💼 Work Experience
 
-💻 **Full Stack & Android Developer (Self Projects / Freelance)**  
+💻 **Web & Android Developer **  
 <a href="#"> Local Karo </a>  · Hybrid
 📍 Satna, Madhya Pradesh
 🗓️ Jun 2025 – Present
@@ -118,3 +118,9 @@
 ## ✨ Quote
 
 > "I build apps that people actually use."
+
+---
+## 🧩 Interests
+ 💻 Programming 
+ 🚀 Learning New Technologies 
+ 📚 Reading 
