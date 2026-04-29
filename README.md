@@ -121,6 +121,6 @@
 
 ---
 ## 🧩 Interests
- 💻 Programming 
- 🚀 Learning New Technologies 
- 📚 Reading 
+ - 💻 Programming 
+ - 🚀 Learning New Technologies 
+ - 📚 Reading 
