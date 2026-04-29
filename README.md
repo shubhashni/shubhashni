@@ -32,8 +32,8 @@
 ## 🎓 Education
 
 🎓 **Bachelor of Computer Applications (BCA)**  
-📍 India  
-📅 2022 – 2025  
+  <a href="https://www.srkgi.co.in/"> SRKGI Satna(M.P.)📍 India </a> 
+📅 2023 – 2026  
 
 💡 Focus: Web Development, DBMS, Software Engineering  
 
@@ -42,12 +42,13 @@
 ## 💼 Work Experience
 
 💻 **Full Stack & Android Developer (Self Projects / Freelance)**  
-📅 2024 – Present  
+<a href="#"> Local Karo </a>  · Hybrid
+📍 Satna, Madhya Pradesh
+🗓️ Jun 2025 – Present
 
-🔹 Built full-stack web apps using **React, Node.js, Prisma**  
-🔹 Developed Android apps using **Java**  
+🔹 Built full-stack web and android apps using **React, React Native and firebase **  
 🔹 Designed REST APIs and backend systems  
-🔹 Focused on performance, scalability, and UI/UX  
+🔹 Focused on Frontend, performance, scalability, and UI/UX  
 
 ---
 
