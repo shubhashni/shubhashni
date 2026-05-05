@@ -110,7 +110,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhashni/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
