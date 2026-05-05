@@ -41,7 +41,7 @@
 
 ## 💼 Work Experience
 
-💻 **Web & Android Developer **  
+💻 **Web & Android Developer**  
 <a href="#"> Local Karo </a>  · Hybrid
 📍 Satna, Madhya Pradesh
 🗓️ Jun 2025 – Present
