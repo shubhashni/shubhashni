@@ -44,7 +44,7 @@
 💻 **Web & Android Developer**  
 <a href="#"> Local Karo </a>  · Hybrid
 📍 Satna, Madhya Pradesh
-🗓️ Jun 2025 – Present
+🗓️ Jun 2025 – apr 2026
 
 🔹 Built full-stack web and android apps using **React, React Native and firebase **  
 🔹 Designed REST APIs and backend systems  
