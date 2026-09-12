@@ -1,6 +1,6 @@
 <!-- 🌟 HEADER -->
 <h1 align="center">Hi 👋, I'm Shubhashni Kushwaha</h1>
-<h3 align="center">Full Stack & Android Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <!-- 🔥 TYPING ANIMATION -->
 <p align="center">
